@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv*/
+venv/
+**/.venv12/  # This ensures the specific folder is ignored
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.idea/
+.vscode/
